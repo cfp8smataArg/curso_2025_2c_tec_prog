@@ -1,0 +1,10 @@
+1. Realizar un programa que muestre su nombre y su edad en una página HTML.
+Emplear el comando write del objeto document para imprimir. Tener en cuenta que si queremos que cada dato quede en una fila distinta de la página debemos insertar la etiqueta HTML <br> (salto de linea en HTML), es decir debemos disponer: document.write('<br>')
+
+2. Confeccionar una programa en JavaScript que defina e inicialice una variable de tipo cadena de caracteres donde almacenemos el nombre de un empleado y otra variable de tipo entera donde almacenar el sueldo. Imprimir cada variable en una línea distinta en pantalla.
+
+3. Declara una variable llamada nombre y asignale tu nombre. Declara una variable llamada apellido y asignale como valor tu apellido. Muestra por consola las variables nombre y apellido.
+
+4. Confeccionar un programa que permita cargar el nombre de un usuario y su mail por teclado. Mostrar posteriormente los datos en la página HTML.
+
+5. En nuestro archivo HTML vamos a vincular un fichero/archivo que se llame script.js (Este archivo debemos crearlo previamente). Recuerda que para vincular el fichero debemos hacerlo con la etiqueta script la cual debemos agregarla antes de que cierre la etiqueta <body>. Dentro del archivo script.js, vamos a declarar las variables nombre y apellido. y le asignaremos el método prompt() para que sea el usuario quien introduzca los datos, nombre y apellido. Mostrar una alerta de bienvenida a nuestra página con el nombre y el apellido del usuario “Bienvenido a nuestra página (nombre+apellido)”
