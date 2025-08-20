@@ -1,0 +1,50 @@
+1. Realizar las siguientes operaciones aritméticas:
+3 + 4
+8 / 2
+6 - 4
+3 x 5
+(3 + 5) / 2
+(8 / 2) x 4
+
+2. Calcule primero el resultado de la siguiente expresión de comparación sin usar console.log(). Después de decidir el resultado, confirmelo usando console.log().
+
+4 > 3
+4 >= 3
+4 < 3
+4 <= 3
+4 == 4
+4 === 4
+4 != 4
+4 !== 4
+4 != '4'
+4 == '4'
+4 === '4’
+
+3. Calcule primero el resultado de la siguiente expresión de comparación sin usar console.log(). Después de decidir el resultado, confirmelo usando console.log().
+
+4 > 3 && 10 < 12
+4 > 3 && 10 > 12
+4 > 3 || 10 < 12
+4 > 3 || 10 > 12
+!(4 > 3)
+!(4 < 3)
+!(false)
+!(4 > 3 && 10 < 12)
+!(4 > 3 && 10 > 12)
+!(4 === '4')
+
+4. Crea 2 variables numero y numerotriple.
+Pidele al usuario que ingrese el valor del numero a calcular mediante un prompt().
+Asigna a la variable numerotriple el valor de la multiplicación por 3 del numero ingresado.
+Muestralo el resultado por consola con el mensaje “El triple de este número es: (xx)”
+
+5.Escriba un script que solicite al usuario que ingrese la base y la altura del triángulo y calcule el área de un triángulo
+6. Escriba un script que solicite al usuario que ingrese el lado a, el lado b y el lado c del triángulo y calcule el perímetro del triángulo
+7. Obtenga el largo y el ancho usando prompt y calcule el área del rectángulo (área = largo x ancho y el perímetro del rectángulo
+8. Obtenga el radio usando prompt y calcule el área de un círculo y la circunferencia de un círculo donde pi = 3.14.
+9. Utiliza la consola para escribir una expresión que compare dos strings y produzca un valor TRUE.
+a. Escribí una expresión comparando dos strings que devuelva FALSE.
+b. Escribí una expresión que involucre un string y un número y devuelva FALSE.
+c. Escribí una expresión que involucre un string y un número y devuelva TRUE
+
+
