@@ -1,0 +1,15 @@
+1. Ensalada de frutas:
+a. Declara un array llamado ensaladaDeFrutas.
+b. Usa un bucle For y muestra cada ítem de ensaladaDeFrutas en la consola, con el siguiente mensaje: “Las frutas que hay en la ensalada son:”
+
+2. Encontrar el índice de un elemento del Array
+a. Crea un array que se llame toDoList con al menos 5 tareas para hacer.
+b. A través del método indexOf() encontrar el indice de una de las 5 tareas especificadas en el array.
+c. Borrar el item del array toDoList, que ha sido devuelto por el método indexOf().
+
+3. Obteniendo el nombre más largo de un array
+a. Declara un array nombres con al menos 6 nombres.
+b. Obtén el nombre más largo del array nombres. Tener en cuenta que los "Strings" son listas de caracteres y que las listas tienen un largo (length) que indica su tamaño.
+
+
+
