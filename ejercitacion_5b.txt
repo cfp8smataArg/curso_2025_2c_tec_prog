@@ -1,0 +1,14 @@
+1. Promedio de edad
+
+ a. Crear un array edades con al menos 8 edades distintas.
+ b. Recorrer el array y obtener el promedio de las edades del array.
+
+2. Armando una lista de super
+
+Crea un array vacio que se llame listaDeSuper.
+Piensa como le puedes pedir al usuario para que ingrese al menos 5 productos para llenar la lista de super.
+Muestra por la consola los productos introducidos por el usuario.
+
+3. En este script deberás crear un array para guardar los nombres de los días de la semana, empezando por 0 para el domingo. Para comprobar el funcionamiento pide al usuario un número entre 0 y 6 y devuelve el nombre del día. Se supone que el dato tecleado estará entre 0 y 6
+
+4. Crea un array booleano con dos valores 'verdadero' y 'falso'. Este array te sirve para traduicr los valores true y false. Usalo para que el script muestre un alert con el nombre vedadero si un usuario teclea un valor entre 0 y 9 y falso en el caso contrario.
