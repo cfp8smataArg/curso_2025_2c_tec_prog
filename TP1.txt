@@ -7,5 +7,5 @@ https://tn.com.ar/sociedad/2021/02/08/imc-que-es-y-como-se-calcula/?outputType=a
 2 - Armar un programa sobre dicha nota.
         a - Determinar cuales son los datos de entrada para el imc.
         b - Calcular el IMC.
-        c - Calcular estado (Delgadez - Normal - Obesidad etc)
+        c - Calcular estado (Delgadez - Normal - Obesidad)
         d - Informar IMC y Estado.
