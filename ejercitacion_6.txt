@@ -1,0 +1,16 @@
+1. Declara una función llamada saludo() que muestre una alerta de Bienvenida al visitante al invocarla por la consola.
+
+2. Calculando el mayor
+a. Declara una función que se llama calculoMayor() y pasale como parámetros (num1,num2)
+b. Dentro de la función muestra una alerta que diga cuál de los números ingresados es mayor. En caso de ser iguales, tendrá que indicarlo a través de una alerta también.
+c. Invoca la función y llena los argumentos con los números que desees.
+
+3. Sistema de facturación
+a. Crear una función que se llame facturacion() .
+b. La función tiene que recibir como parámetro el monto de un producto , y el medio de pago : C (tarjeta de crédito), E (efectivo) y D (tarjeta de débito). Si el monto del producto es menor a $200 no se aplicará ningún descuento. Si el monto a abonar es entre $200 y $400 se aplicará un descuento del 30% si el medio de pago es efectivo, 20% si se realiza con débito y 10% con tarjeta de crédito. Para montos mayores a $400, el descuento es 40% sin importar el medio de pago.
+c. La función deberá retornar el monto final a abonar.
+
+4. Creando un método de iteración de array.
+a. Crear una función IterarArray() y pasale el parámetro array.
+b. Codea dentro de la función la iteración/recorrido de un array y muéstralo por consola.
+c. Invoca la función IterarArray() y pasale como argumento 3 arrays distintos.
