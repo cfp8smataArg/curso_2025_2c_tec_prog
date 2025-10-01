@@ -1,0 +1,52 @@
+1. Escribe una función que calcule el coste total de un viaje, incluyendo los gastos de alojamiento, alimentación y entretenimiento.
+
+Solicita al usuario que ingrese los gastos estimados para cada categoría.
+Calcula el coste total sumando todos los gastos.
+Muestra el coste total al usuario.
+Ejemplo de entrada: Gastos de alojamiento: $2000, Gastos de alimentación: $1500, Gastos de entretenimiento: $1000.
+Salida esperada: El coste total del viaje es $4500.
+
+2. Crea una función que convierta la edad de un perro a años humanos.
+
+Solicita al usuario que indique la edad de su perro en años.
+Calcula la edad del perro en años humanos multiplicando la edad del perro por 7.
+Muestra la edad del perro en años humanos al usuario.
+Ejemplo de entrada: Edad del perro: 5 años.
+Salida esperada: La edad del perro en años humanos es 35 años.
+
+3. Crea una función que calcule el precio final de un producto después de aplicarle un descuento.
+Solicita al usuario que inserte el precio original del producto.
+Solicita al usuario que inserte el porcentaje de descuento a aplicar (por ejemplo, 10 para un descuento del 10%).
+Utiliza una función para calcular el precio final después de aplicar el descuento.
+Muestra el precio final al usuario.
+
+Ejemplo de entrada:
+
+Inserta el precio original del producto: 50
+Inserta el porcentaje de descuento a aplicar: 20
+
+Salida esperada: El precio final del producto después de aplicar un descuento del 20% es: 40 euros.
+
+4. Escribe una función que solicite al usuario dos números y luego muestre todos los números primos que hay entre esos dos números, incluyendo los extremos.
+
+Solicita al usuario que ingrese dos números enteros.
+Encuentra todos los números primos en el rango entre los dos números insertados, incluyendo esos dos números.
+Ejemplo de entrada: Inserta el primer número: 10, Inserta el segundo número: 20.
+Salida esperada: Los números primos entre 10 y 20 son: 11, 13, 17, 19.
+
+5. Crea una función que genere los primeros N términos de la secuencia de Fibonacci, donde N es un número insertado por el usuario.
+
+Solicita al usuario que ingrese el número de términos de la secuencia Fibonacci que desea generar.
+Utiliza una función para calcular la secuencia de Fibonacci.
+Muestra los primeros N términos de la secuencia Fibonacci al usuario.
+Ejemplo de entrada: Inserta el número de términos de la secuencia Fibonacci: 8.
+Salida esperada: Los primeros 8 términos de la secuencia Fibonacci son: 0, 1, 1, 2, 3, 5, 8, 13.
+
+6. Crea una función que convierta una temperatura de grados Celsius a grados Fahrenheit o viceversa, según la elección del usuario.
+
+Solicita al usuario que elija el tipo de conversión: de Celsius a Fahrenheit o de Fahrenheit a Celsius.
+Solicita al usuario que ingrese la temperatura que desea convertir.
+Utiliza funciones para realizar las conversiones necesarias.
+Muestra el resultado de la conversión al usuario.
+Ejemplo de entrada: ¿Qué tipo de conversión deseas realizar? (1 para Celsius a Fahrenheit, 2 para Fahrenheit a Celsius): 1, Inserta la temperatura en grados Celsius: 25
+Salida esperada: 25 grados Celsius equivalen a 77 grados Fahrenheit.
