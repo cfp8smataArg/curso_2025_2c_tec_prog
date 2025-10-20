@@ -10,7 +10,9 @@ Codeshare: [https://codeshare.io/nicomedes](https://codeshare.io/nicomedes)
 
 Tutoriales programacion ya -> [https://www.tutorialesprogramacionya.com/](https://www.tutorialesprogramacionya.com/)
 
-Guía rapida de HTML -> [https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Cheatsheet)
+Guía rápida de HTML -> [https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Cheatsheet](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Cheatsheet)
+
+Guía rápida de CSS -> [https://codespaceacademy.com/guia-rapida-css/](https://codespaceacademy.com/guia-rapida-css/)
 
 Guía javascript para desarrolladores -> [https://developer.mozilla.org/es/docs/Web/JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
